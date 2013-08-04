@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Быстрое сообщение</string>
+    <string name="action_settings">Настройки</string>
+    <string name="EnterAMessage">Текст сообщения</string>
+    <string name="Send">Отправить</string>
+    <string name="Cancel">Закрыть</string>
+    <string name="PhoneNubmer">Номер телефона</string>
+    <string name="Sended">Быстрое сообщение: Сообщение успешно отправлено</string>
+    <string name="NoService">Быстрое сообщение: Ошибка при отправке, сеть недоступна</string>
+    <string name="RadioOff">Быстрое сообщение: Выключьте режим полета и попробуйте снова!</string>
+    <string name="GenericFailure">Быстрое сообщение: Общая ошибка при отправке сообщения</string>
+    <string name="SMSDelivered">Быстрое сообщение: Сообщение успешно доставлено!</string>
+    <string name="SMSNotDelivered">Быстрое сообщение: Сообщение НЕ доставлено!</string>
+
+</resources>
